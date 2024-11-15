@@ -1,11 +1,11 @@
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
 
 html {
       background-color: #1a1b26;
       align-items: center;
       color: #ebdbb2;
       display: flex;
-      font-family: 'Ubuntu Mono', monospace;
+      font-family: 'JetBrains Mono', monospace;
       font-size: 25px;
       height: 100%;
       justify-content: center;
@@ -67,7 +67,7 @@ html {
 
 input {
   background-color: unset;
-  font: 16px 'Ubuntu Mono', monospace;
+  font: 16px 'JetBrains Mono', monospace;
   color: #ebdbb2;
   height: 100%;
   width: 100%;
